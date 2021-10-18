@@ -1,3 +1,3 @@
 # pdi
 
-Pratica com Spoon e Dbeaver
+Pratica com Spoon, Dbeaver e Power Architect
